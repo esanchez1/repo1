@@ -1,4 +1,8 @@
-int h = 900;
-int x = 70;
+
+
+int x = 2000;
+int j = 20;
+int x = 10 edit a line;
+
 
 
